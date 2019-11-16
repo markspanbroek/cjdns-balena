@@ -1,4 +1,4 @@
-CJDNS on Balena
+Cjdns on Balena
 ---------------------
 
 Run [cjdns][1] on [Balena OS][2].
